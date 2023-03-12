@@ -1,12 +1,12 @@
 ### Hello everybody/ Hola a todos/ Olá a todos 👋
 
 📘Estudando programação
+
 👩‍💻Back-end
+
 💻Front-end
+
 🙆‍Pronome: Ela/dela
-🎖️HTML
-🎖️CSS
-🎖️PYTHON
 
 <div style="display: inline_block"><br>
   
